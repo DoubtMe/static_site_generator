@@ -7,3 +7,6 @@ class HTMLNode():
 
     def to_html(slef):
         raise NotImplementedError
+    
+    def props_to_html(self):
+        pass
